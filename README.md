@@ -1,6 +1,5 @@
-**TERMINAL COMMANDS**
+# TERMINAL COMMANDS
 
----
     ls - lists files and directories in current directory.
     cd - changes to a different directory.
     mkdir - used to create a new directory.
